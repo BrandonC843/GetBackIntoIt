@@ -38,10 +38,12 @@ h5{
    text-decoration: none;
 }
 /*  */
+.data{
+   background: #fbe;
+}
 .left-container{
    width: 50%;
    float: left;
-   background: #cdeabf;
 }
 .beauty-column{
    background: #aad;
@@ -55,18 +57,17 @@ h5{
 }
 /*  */
 .right-container{
-   background: #fbe;
    width: 50%;
    float: right;
 }
 
 .love-column{
-   background: #ECDDAC;
+   background: #aad;
    width: 75%;
    margin: 75px;
 }
 .energy-column{
-   background: #ECDDAC;
+   background: #aad;
    width: 75%;
    margin: 75px;
 }
